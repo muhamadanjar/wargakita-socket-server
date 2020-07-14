@@ -1,0 +1,83 @@
+{
+  "profile": { "name": "typicode" },
+  "merchant":[
+    {
+      "id":1,
+      "name":"Merchant 1",
+      "star": 4,
+      "subName": "Toko Kelontong",
+      "description": "Toko Kelontong",
+      "image":"https://akcdn.detik.net.id/community/media/visual/2020/03/26/da451b98-12c6-43d5-8539-d20708b02d02.jpeg?w=700&q=90"
+    },
+    {
+      "id":2,
+      "name":"Merchant 2",
+      "star": 4,
+      "subName": "Toko Kelontong",
+      "description": "Toko Kelontong",
+      "image":"https://akcdn.detik.net.id/community/media/visual/2020/03/26/da451b98-12c6-43d5-8539-d20708b02d02.jpeg?w=700&q=90"
+    },
+    {
+      "id":3,
+      "name":"Merchant 3",
+      "star": 4,
+      "subName": "Toko Kelontong",
+      "description": "Toko Kelontong",
+      "image":"https://akcdn.detik.net.id/community/media/visual/2020/03/26/da451b98-12c6-43d5-8539-d20708b02d02.jpeg?w=700&q=90"
+    },
+    {
+      "id":4,
+      "name":"Merchant 4",
+      "star": 4,
+      "subName": "Toko Kelontong",
+      "description": "Toko Kelontong",
+      "image":"https://akcdn.detik.net.id/community/media/visual/2020/03/26/da451b98-12c6-43d5-8539-d20708b02d02.jpeg?w=700&q=90"
+    }
+  ],
+  "products":[
+    {
+      "id":1,
+      "imageCredit": {
+        "artist": "Martin Wessely",
+        "link": "http://www.resplashed.com/photographer/martin_wessely/"
+      },
+      "tags": [
+        "Trees"
+      ],
+      "imageUrl": "http://www.resplashed.com/img/400_002e1ecb8bd2.jpg",
+      "filename": "400_002e1ecb8bd2.jpg",
+      "imageHash": "2b1d5b5ef4b37b4f5d0dccade1b69987",
+      "price": 10.99,
+      "name": "Handcrafted Trees Mug",
+      "description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur",
+      "slug": "Handcrafted-Trees-Mug",
+      "added": 1485723766805,
+      "manufacturer": "OHara-Group",
+      "itemType": "mug",
+      "productImg": "mug-400_002e1ecb8bd2.jpg",
+      "merchant_id":"1"
+    },
+    {
+      "id":2,
+      "imageCredit": {
+        "artist": "Martin Wessely",
+        "link": "http://www.resplashed.com/photographer/martin_wessely/"
+      },
+      "tags": [
+        "Trees"
+      ],
+      "imageUrl": "http://www.resplashed.com/img/400_002e1ecb8bd2.jpg",
+      "filename": "400_002e1ecb8bd2.jpg",
+      "imageHash": "2b1d5b5ef4b37b4f5d0dccade1b69987",
+      "price": 10.99,
+      "name": "Handcrafted Trees Mug",
+      "description": "enim corporis voluptatibus laudantium possimus alias dolorem voluptatem similique aut aliquam voluptatem voluptatem omnis id consequatur",
+      "slug": "Handcrafted-Trees-Mug",
+      "added": 1485723766805,
+      "manufacturer": "OHara-Group",
+      "itemType": "mug",
+      "productImg": "mug-400_002e1ecb8bd2.jpg",
+      "merchant_id":"2"
+    }
+  ]
+}
