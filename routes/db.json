@@ -1,5 +1,9 @@
 {
   "profile": { "name": "typicode" },
+  "category": [
+    { "id": 1, "name": "Pasta Gigi" },
+    { "id": 2, "name": "Odol" }
+  ],
   "history": [
     {
       "title": "Transaksi Baru",
@@ -93,7 +97,7 @@
         "link": "http://www.resplashed.com/photographer/martin_wessely/"
       },
       "tags": ["Trees"],
-      "imageUrl": "http://www.resplashed.com/img/400_002e1ecb8bd2.jpg",
+      "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
       "filename": "400_002e1ecb8bd2.jpg",
       "imageHash": "2b1d5b5ef4b37b4f5d0dccade1b69987",
       "price": 10.99,
