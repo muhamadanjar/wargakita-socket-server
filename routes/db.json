@@ -2,7 +2,9 @@
   "profile": { "name": "typicode" },
   "category": [
     { "id": 1, "name": "Pasta Gigi" },
-    { "id": 2, "name": "Odol" }
+    { "id": 2, "name": "Odol" },
+    { "id": 3, "name": "Sabun" },
+    { "id": 4, "name": "Sikat Gigi" }
   ],
   "history": [
     {
@@ -17,11 +19,6 @@
           "key": 2,
           "name": "User 2",
           "image": "https://bootdey.com/img/Content/avatar/avatar1.png"
-        },
-        {
-          "key": 3,
-          "name": "User 3",
-          "image": "https://bootdey.com/img/Content/avatar/avatar7.png"
         }
       ]
     },
